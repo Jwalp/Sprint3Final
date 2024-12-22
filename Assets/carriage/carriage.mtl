@@ -1,0 +1,42 @@
+newmtl acmat_0
+Kd 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 16
+Tr 0
+map_Kd wood3.png
+newmtl acmat_1
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 16
+Tr 0
+map_Kd wood3.png
+newmtl acmat_2
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 16
+Tr 0
+map_Kd Oldmetal.jpg
+newmtl acmat_3
+Kd 0.533333 0.533333 0.533333
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 16
+Tr 0
+map_Kd Oldmetal.jpg
+newmtl acmat_4
+Kd 0.266667 0.266667 0.266667
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 16
+Tr 0
+map_Kd Oldmetal.jpg
+newmtl acmat_5
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 16
+Tr 0
+map_Kd linen.png
